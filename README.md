@@ -1,2 +1,1 @@
-# bank-management-system
-2022-3-12
+# 银行管理系统
